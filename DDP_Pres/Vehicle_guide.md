@@ -1,7 +1,7 @@
-Vehicle Purchase Guide
+Vehicle Evaluation Guide
 ========================================================
 author: Lokesh KD
-date: Fri Feb 26 13:28:11 2016
+date: Tue Mar 01 17:17:30 2016
 autosize: true
 transition: rotate
 
